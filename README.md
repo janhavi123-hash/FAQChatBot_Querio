@@ -2,6 +2,8 @@
 
 An AI-powered FAQ chatbot built for a fictional online store, "Querio Store." Users can ask questions in natural language and get matched to the most relevant answer — even if their phrasing doesn't exactly match the stored FAQ.
 
+🔗 **Live Demo:** [https://janhavi123-hash-faqchatbot-querio-app-juu8nc.streamlit.app/]
+
 ## Demo Video
 📹 [Watch the demo video](https://drive.google.com/file/d/1gSJ2JoPFt_f72budWOcWBJdYuMc6dic2/view?usp=drivesdk)
 
